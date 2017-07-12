@@ -37,7 +37,7 @@ p {
 }
 
 nav {
-  background-color: #FFF;
+  background-color: DeepSkyBlue;
 }
 
 nav li {
@@ -64,13 +64,6 @@ float:right;
 .contact-btn a:active {
   position: relative;
   bottom: 2px;
-}
-
-nav a {
-  height: 60px;
-  line-height: 60px;
-  color: #204156;
-  text-decoration: none;
 }
 
 #footer {
