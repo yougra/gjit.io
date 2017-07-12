@@ -7,8 +7,8 @@ body {
 
 h1 {
 	font-size: 50px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color:rgb(46,105,163);
+  	font-family: Palatino, 'Palatino Linotype', serif;
+  	color:rgb(46,105,163);
 }
 
 h2 {
@@ -18,21 +18,21 @@ h2 {
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  color:#ffffff
-}
+  	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  	color:#ffffff
+	}
 
 p {
-  font-size: 2rem;
+  	font-size: 2rem;
 }
 
 .hero a {
 	color: #00FFAA;
 	font-size: 24px;
 	text-decoration: none;
-  font-size: 1.25em;
+  	font-size: 1.25em;
 }
 
 #footer {
-  font-size: 0.75rem;
+  	font-size: 0.75rem;
 }
