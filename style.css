@@ -35,18 +35,44 @@ p {
 	text-decoration: none;
   font-size: 1.25em;
 }
-{
-	<ul>
-    <li><a href="WebDesign.html">Web Design</a></li>
-    <li><a href="index.html">Homepage</a></li>
-    <li><a href="Datavis.html">Data Visualisation</a></li>
-    <li><a href="UXUI.html">UX/UI</a></li>
-    <div class="contact-btn"><a>Contact</a>
-      </div>
-  </ul>
-</nav>
+
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+float:right;
+}
+
+.contact-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
 
 }
+
+.contact-btn a:active {
+  position: relative;
+  bottom: 2px;
+}
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
+}
+
 #footer {
   font-size: 0.75rem;
 }
