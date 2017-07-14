@@ -28,6 +28,7 @@ h2 {
 
 nav {
 	background-colour: Red;
+	display: inline;
 }
 
 p {
