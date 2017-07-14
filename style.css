@@ -12,11 +12,10 @@ h1 {
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 35px;
 }
-
+	
 .hero {
-	padding: 250px 0;
 	margin: 30px;
   	font-family: 'Trebuchet MS', Helvetica, sans-serif;
   	color:#ffffff
