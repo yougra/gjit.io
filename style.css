@@ -5,6 +5,11 @@ body {
 	width: 100%;
 }
 
+background {
+	background-image: cover;
+	padding: 50px;
+}
+
 h1 {
 	font-size: 50px;
   	font-family: Palatino, 'Palatino Linotype', serif;
