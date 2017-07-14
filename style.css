@@ -19,6 +19,7 @@ h2 {
 nav {
 	background-colour: Chocolate;
 	display: inline;
+	text-align: left;
 }
 
 p {
