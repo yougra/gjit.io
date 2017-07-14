@@ -3,11 +3,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 90%;
-}
-
-background {
-	background: DeepSkyBlue;
-	padding: 50px;
+	background: #00ff00 no-repeat fixed center;
 }
 
 h1 {
